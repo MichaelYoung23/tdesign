@@ -411,14 +411,14 @@ export const docs = [
         //       component: () => import('tdesign-omi/avatar/avatar.md'),
         //       componentEn: () => import('tdesign-omi/avatar/avatar.en-US.md'),
       },
-      //     {
-      //       title: 'Badge 徽标',
-      //       titleEn: 'Badge',
-      //       name: 'badge',
-      //       path: '/badge',
-      //       component: () => import('tdesign-omi/badge/badge.md'),
-      //       componentEn: () => import('tdesign-omi/badge/badge.en-US.md'),
-      //     },
+      {
+        title: 'Badge 徽标',
+        titleEn: 'Badge',
+        name: 'badge',
+        path: '/badge',
+        //    component: () => import('tdesign-omi/badge/badge.md'),
+        //    componentEn: () => import('tdesign-omi/badge/badge.en-US.md'),
+      },
       //     {
       //       title: 'Calendar 日历',
       //       titleEn: 'Calendar',
